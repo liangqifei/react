@@ -16,4 +16,4 @@ react+react-router+mobx+axios+less 搭建一个框架
 
 about页：【页面没有优化，请将就看】
 
-![about页.png](https://upload-images.jianshu.io/upload_images/3453108-72ebf4e71bdd322d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![moment.png]()
