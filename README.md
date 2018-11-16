@@ -12,7 +12,7 @@ react+react-router+mobx+axios+less 搭建一个框架
 
 首页：【页面没有优化】
 
-![home.png]()
+![home.png](https://github.com/liangqifei/gitskills/blob/master/09846873-0B3D-4056-9DFC-A2494771F108.png)
 
 about页：【页面没有优化，请将就看】
 
